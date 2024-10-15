@@ -1,0 +1,26 @@
+.footerContainer {
+    padding-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footerPara {
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+
+.orderBtn {
+    width: 100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
