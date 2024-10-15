@@ -1,0 +1,32 @@
+.HeaderContainer {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.headerHeading {
+    font-size: 3rem;
+    color: gold;
+}
+
+.HeaderOurMenu {
+    width: 120px;
+    height: 50px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+
+}
+
+.headerMiniPara {
+    width: 50%;
+    text-align: center;
+}
+
+.headerMiniPara p {}
