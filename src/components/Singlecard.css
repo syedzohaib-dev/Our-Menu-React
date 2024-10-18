@@ -6,6 +6,11 @@
 
 }
 
+.cardBody:hover {
+    border: 1px solid gold;
+    border-radius: 5px;
+}
+
 .cardImage {
     height: 100%;
     width: 40%;

@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Singlecard.css"
 
-function Singlecard(img, title, description, saleQuantity) {
+function Singlecard({img, title, description, saleQuantity}) {
   
   return (
     <>
